@@ -6,9 +6,9 @@
 
 #
 
-#### To Follow along and DO ! .............................. [Do It!](https://colab.research.google.com/github/mandar-karhade/AIsummit24/blob/main/Notebooks/2024_AI_Summit_completed.ipynb)
+#### To Follow along and DO ! .............................. [Do It!](https://colab.research.google.com/github/mandar-karhade/AIsummit24/blob/main/Notebooks/2024_AI_Summit.ipynb)
 
-#### To Follow along and SEE ! .............................. [Watch it!](https://colab.research.google.com/drive/1FJhQ8FfjuNDvJ-sOiFd4sqPgfMM8SnCP?usp=sharing)
+#### To Follow along and SEE ! .............................. [Watch it!](https://colab.research.google.com/github/mandar-karhade/AIsummit24/blob/main/Notebooks/2024_AI_Summit_completed.ipynb)
 
 #### Find me .............................. [Mandar Karhade](https://www.linkedin.com/in/mandarkarhade/)
 
